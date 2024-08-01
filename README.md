@@ -1,4 +1,3 @@
-# JobSectorMap
-Colorado State Demography Office Job Sector WebMap
+# First draft housing needs index
 
-A map to show jobs by sector in Colorado by county
+Non-working version, can delete
